@@ -1,12 +1,23 @@
-# Enkrata
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/Enkrata/.github/main/profile/brand/lockup-bone.svg">
+  <img alt="Enkrata"
+       src="https://raw.githubusercontent.com/Enkrata/.github/main/profile/brand/lockup-pine.svg"
+       width="300">
+</picture>
 
-**Personal development studio of Kevin Holloway.**
+### Hard work on things that matter.
 
-Games, productivity apps, and fitness projects — an outlet for building things
-that matter.
+Enkrata is Kevin Holloway's development studio — games, productivity apps, and
+fitness projects, built one at a time and shipped.
 
-The name comes from the Greek *enkrateia* (ἐγκράτεια): the Stoic virtue of
-self-mastery. The studio runs on the same idea — internal locus of control,
-optimism, and hard work.
+The name is coined from the Greek *enkrateia* (ἐγκράτεια), the Stoic virtue of
+self-mastery: internal locus of control, and the conviction that what you can
+control is enough to build something worth keeping.
 
-Most repos here are private; this page is the front door.
+**Now building** — [Undercrew](https://enkrata.github.io/undercrew/), a
+Terraria-deep 2D sandbox you never directly play. You run the crew of agents
+that plays it, from your phone. In beta on TestFlight.
+
+Most repos here are private. [enkrata.github.io](https://enkrata.github.io) is
+the front door.
