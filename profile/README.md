@@ -15,7 +15,7 @@ The name is coined from the Greek *enkrateia* (ἐγκράτεια), the Stoic v
 self-mastery: internal locus of control, and the conviction that what you can
 control is enough to build something worth keeping.
 
-**Now building** — [Undercrew](https://enkrata.github.io/undercrew/), a
+**In beta** — [Undercrew](https://enkrata.github.io/undercrew/), a
 Terraria-deep 2D sandbox you never directly play. You run the crew of agents
 that plays it, from your phone. In beta on TestFlight.
 
